@@ -6,9 +6,9 @@
 |Ubuntu 18.04.6 LTS|C++|  
 
 ## 1. Ceres-Solver Installation, CMake, HelloWorld Example
-[Presentation Pdf](https://github.com/Lee-JaeWon/Ceres-Solver-Examples/blob/main/ceres/ceres-solver/helloworld_example/1229.pdf)
+[1. Presentation PDF](https://github.com/Lee-JaeWon/Ceres-Solver-Examples/blob/main/ceres/ceres-solver/helloworld_example/1229.pdf)
 <br>
-[Source Code](https://github.com/Lee-JaeWon/Ceres-Solver-Examples/tree/main/ceres/ceres-solver/helloworld_example)
+[2. Source Code](https://github.com/Lee-JaeWon/Ceres-Solver-Examples/tree/main/ceres/ceres-solver/helloworld_example)
 
 ## How to install Ceres Solver
 Ubuntu 명령어
