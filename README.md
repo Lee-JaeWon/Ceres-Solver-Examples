@@ -10,6 +10,10 @@
 <br>
 [2. Source Code](https://github.com/Lee-JaeWon/Ceres-Solver-Examples/tree/main/ceres/ceres-solver/helloworld_example)
 
+## 2. Curve-fitting Exmaple
+[1. Presentation PDF]()[ or GitBlog]()<br>
+[2. Source Code](https://github.com/Lee-JaeWon/Ceres-Solver-Examples/tree/main/ceres/Example_curve)
+
 ## How to install Ceres Solver
 Ubuntu 명령어
 ```
