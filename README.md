@@ -11,7 +11,7 @@
 [2. Source Code](https://github.com/Lee-JaeWon/Ceres-Solver-Examples/tree/main/ceres/ceres-solver/helloworld_example)
 
 ## 2. Curve-fitting Exmaple
-[1. Presentation PDF]()[ or GitBlog]()<br>
+[1. Presentation PDF](https://github.com/Lee-JaeWon/Ceres-Solver-Examples/blob/main/Optimization_method%26Curve_fitting.pdf)[ or GitBlog](https://lee-jaewon.github.io/ceres_solver/mathematic_method/)<br>
 [2. Source Code](https://github.com/Lee-JaeWon/Ceres-Solver-Examples/tree/main/ceres/Example_curve)<br>
 [2-1. Source Code_RIDDERS' Method](https://github.com/Lee-JaeWon/Ceres-Solver-Examples/tree/main/ceres/Example_curve_ridders)
 
